@@ -1,0 +1,21 @@
+body{
+    background-color:black;
+    text-align:center;
+}
+
+.name{
+    color:aqua;
+}
+
+.self{
+    color:blue;
+}
+
+.tnk{
+    color:blueviolet;
+}
+
+.img{
+    position:relative;
+    size:25%;
+}
